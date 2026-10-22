@@ -1,0 +1,14 @@
+SALES DATA ANALYSIS - BUSINESS INSIGHTS
+
+1. Technology has the highest category sales at $764,648.41.
+
+2. Technology has the highest category profit at $135,079.78.
+
+3. West has the highest regional sales at $677,194.05.
+
+4. Central has the lowest regional profit at $42,735.11; its product mix and costs merit investigation.
+
+5. Canon imageCLASS 2200 Advanced Copier is the top product by sales at $51,099.85.
+
+6. Tables has the lowest sub-category profit at $-15,599.77.
+
