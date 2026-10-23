@@ -1,14 +1,17 @@
 SALES DATA ANALYSIS - BUSINESS INSIGHTS
 
-1. Technology has the highest category sales at $764,648.41.
+1. Technology has the highest category sales at $764,648.41 and the highest category profit at $135,079.78.
 
-2. Technology has the highest category profit at $135,079.78.
+2. Furniture generated $681,580.73 in sales but only $18,170.06 in profit; its product mix, discounts and costs merit review.
 
-3. West has the highest regional sales at $677,194.05.
+3. West has the highest regional sales at $677,194.05 and regional profit at $102,491.60.
 
-4. Central has the lowest regional profit at $42,735.11; its product mix and costs merit investigation.
+4. Central has the lowest regional profit at $42,735.11 despite $466,388.27 in sales; its product mix and costs merit investigation.
 
 5. Canon imageCLASS 2200 Advanced Copier is the top product by sales at $51,099.85.
 
-6. Tables has the lowest sub-category profit at $-15,599.77.
+6. Tables has the lowest sub-category profit at -$15,599.77.
 
+7. Discount levels of 30% and above show negative aggregate profit in this dataset; this association does not by itself prove that discounts caused the losses.
+
+8. December 2025 is the highest-sales month in the analysis at $97,502.28.
